@@ -18,10 +18,10 @@ npm install
 Y para ejecutar el programa sólo se necesita correrlo con
 
 ```sh
-npm start
+npm run
 ```
 
-> Note: `El comando de npm start está especificado en el package.json en el apartado de Scripts.`
+> Note: `El comando de npm run está especificado en el package.json en el apartado de Scripts.`
 
 > Note: `Es necesario tener instalado` [Nodemon](https://www.npmjs.com/package/nodemon) `para la ejecución del server.`
 
