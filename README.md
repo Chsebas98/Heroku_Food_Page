@@ -22,6 +22,7 @@ npm start
 ```
 
 > Note: `El comando de npm start está especificado en el package.json en el apartado de Scripts.`
+
 > Note: `Es necesario tener instalado` [Nodemon](https://www.npmjs.com/package/nodemon) `para la ejecución del server.`
 
 ## License
